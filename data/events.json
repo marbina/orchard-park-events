@@ -1,0 +1,33 @@
+{
+  "town": "Orchard Park, NY",
+  "updated": "2026-03-30",
+  "events": [
+    {
+      "id": 1,
+      "title": "Orchard Park Farmers Market",
+      "date": "2026-04-05",
+      "time": "9:00 AM - 1:00 PM",
+      "location": "Orchard Park Village Square",
+      "category": "Community",
+      "description": "Fresh local produce, crafts, and food vendors."
+    },
+    {
+      "id": 2,
+      "title": "Earth Day Cleanup",
+      "date": "2026-04-22",
+      "time": "10:00 AM - 2:00 PM",
+      "location": "Chestnut Ridge Park",
+      "category": "Environment",
+      "description": "Community cleanup event. Gloves and bags provided."
+    },
+    {
+      "id": 3,
+      "title": "OP Music in the Park",
+      "date": "2026-05-10",
+      "time": "6:00 PM - 9:00 PM",
+      "location": "Orchard Park Bandshell",
+      "category": "Arts",
+      "description": "Free outdoor concert series. Bring a lawn chair."
+    }
+  ]
+}
